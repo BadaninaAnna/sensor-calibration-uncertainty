@@ -1,0 +1,57 @@
+{
+  "name": "Sensorkwaliteit",
+  "dataColors": ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"],
+  "background": "#fcfcfb",
+  "foreground": "#0b0b0b",
+  "tableAccent": "#2a78d6",
+  "good": "#1baf7a",
+  "neutral": "#eda100",
+  "bad": "#e34948",
+  "maximum": "#2a78d6",
+  "center": "#f2f1ee",
+  "minimum": "#fcfcfb",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 18, "color": "#0b0b0b" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 15, "color": "#0b0b0b" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 14, "color": "#52514e" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 40, "color": "#0b0b0b" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "fontSize": 18 }],
+        "categoryAxis": [{ "fontSize": 14, "titleFontSize": 14 }],
+        "valueAxis": [{ "fontSize": 14, "titleFontSize": 14 }],
+        "legend": [{ "fontSize": 14 }],
+        "labels": [{ "fontSize": 13 }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [{ "fontSize": 15 }],
+        "values": [{ "fontSize": 15 }],
+        "total": [{ "fontSize": 15 }],
+        "grid": [{ "rowPadding": 8 }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "fontSize": 15 }],
+        "rowHeaders": [{ "fontSize": 15 }],
+        "values": [{ "fontSize": 15 }],
+        "grid": [{ "rowPadding": 6 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "textSize": 16 }],
+        "items": [{ "textSize": 15 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "fontSize": 40 }]
+      }
+    }
+  }
+}

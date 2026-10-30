@@ -1,0 +1,11 @@
+sensor,component,type,verdeling,u_rel,bijdrage_var,aandeel
+CO,Spreiding kalibratiemodel (residuen),A,normaal,0.243276,0.0591833,0.562906
+CO,Onzekerheid modelparameters,A,normaal,0.00787234,6.19737e-05,0.000589446
+CO,"Referentie-analysator (EN-norm, k=2)",B,normaal,0.075,0.005625,0.0535007
+CO,Drift binnen 14-daags interval,B,rechthoekig,0.200669,0.040268,0.382999
+CO,Resolutie ruwe sensor (1 telling),B,rechthoekig,0.000745881,5.56338e-07,5.29146e-06
+NO2,Spreiding kalibratiemodel (residuen),A,normaal,0.209682,0.0439667,0.618298
+NO2,Onzekerheid modelparameters,A,normaal,0.00691209,4.7777e-05,0.000671882
+NO2,"Referentie-analysator (EN-norm, k=2)",B,normaal,0.075,0.005625,0.0791037
+NO2,Drift binnen 14-daags interval,B,rechthoekig,0.146525,0.0214696,0.301925
+NO2,Resolutie ruwe sensor (1 telling),B,rechthoekig,0.000345532,1.19392e-07,1.679e-06

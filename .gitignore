@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.zip
+data/raw/*.xlsx
+*.pbix.bak
+powerbi/*_backup_*.pbix

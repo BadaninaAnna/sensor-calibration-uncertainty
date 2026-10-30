@@ -1,0 +1,3 @@
+sensor,naam,eenheid,referentiekanaal,sensorkanaal,grenswaarde,omgevingscorrectie,herkalibratie_dagen,colocatie_dagen
+CO,Koolmonoxide,mg/m³,CO(GT),PT08.S1(CO),10,False,14,28
+NO2,Stikstofdioxide,µg/m³,NO2(GT),PT08.S4(NO2),200,True,14,28
